@@ -1,11 +1,8 @@
 # Caesar Cipher App
 
 <div style="display: flex; flex-direction: row;">
-<img src="/cipher-disk.jpeg" width="30%" height="30%"></img>
-  <div style="display: flex; flex-direction: column;">
-    <img src="/caesar-cipher-right-shift.png" width="30%" height="30%"></img>
-    <img src="/caesar-cipher-left-shift.png" width="30%" height="30%"></img>
-  </div>
+  <img src="/caesar-cipher-right-shift.png" width="30%" height="30%" />
+  <img src="/caesar-cipher-left-shift.png" width="30%" height="30%" />
 </div>
 <br>
 <p>
@@ -16,16 +13,18 @@ Credit: <br>
 <hr>
 
 ## Caesar Cipher Story
-
-<p>Caesar Cipher is the way of encoding text that was seen as early as during the time of Julius Caesar.</p>
-
-<p>
-"The Caesar Cipher, used by Julius Caesar around 58 BC, is a substitution cipher that shifts letters in a message to make it unreadable if intercepted. 
-To decrypt, the receiver reverses the shift. 
-Arab mathematician Al-Kindi broke the Caesar Cipher using frequency analysis, which exploits patterns in letter frequencies." <br>
-
--- Khan Academy
-</p>
+<div style="display: flex; flex-direction: row;">
+  <img src="cipher-disk.jpeg" width="30%" height="30%">
+  <p>
+  Caesar Cipher is the way of encoding text that was seen as early as during the time of Julius Caesar.
+    
+  "The Caesar Cipher, used by Julius Caesar around 58 BC, is a substitution cipher that shifts letters in a message to make it unreadable if intercepted. 
+  To decrypt, the receiver reverses the shift. 
+  Arab mathematician Al-Kindi broke the Caesar Cipher using frequency analysis, which exploits patterns in letter frequencies." <br>
+  
+  -- Khan Academy
+  </p>
+</div>
 
 <p>Learn more about the Caesar Cipher on Khan Academy: </p>
 <p>
