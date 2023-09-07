@@ -31,7 +31,7 @@ Arab mathematician Al-Kindi broke the Caesar Cipher using frequency analysis, wh
 
 <p>
   The application is quite simple. You input your message to encrypt, and then each of the words in the message will be shifted by a certain shifting amount that you and the recipient agreed upon.
-  The recipient can then decrypt your message by inserting both the encrypted message as well as the shifting amount.
+  The recipient can then decrypt your message by inserting both the encrypted message as well as the shifting amount. 🤓
 </p>
 
 <hr>
