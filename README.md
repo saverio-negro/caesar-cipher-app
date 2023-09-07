@@ -1,9 +1,15 @@
 # Caesar Cipher App
 
-<img src="/cipher-disk.png" width="50%" height="50%"></img>
-<img src="/caesar-cipher-left-shift.png"></img>
+<div style="display: flex; flex-direction: row;">
+<img src="/cipher-disk.jpeg" width="30%" height="30%"></img>
+<img src="/caesar-cipher-left-shift.png" width="30%" height="30%"></img>
+</div>
 <br>
-Credit: <a href="https://en.wikipedia.org/wiki/Caesar_cipher">Wikipedia</a>
+<p>
+Credit: <br>
+  <a href="https://en.wikipedia.org/wiki/Caesar_cipher">Wikipedia</a><br>
+  <a href="geeksforgeeks.org/caesar-cipher-in-cryptography/">GeeksforGeeks.org</a>
+</p>
 <hr>
 
 ## Caesar Cipher Story
