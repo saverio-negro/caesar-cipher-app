@@ -1,8 +1,9 @@
 # Caesar Cipher App
 
-<img src="/woman-guessing.png" width="50%" height="50%"></img>
+<img src="/cipher-disk.png" width="50%" height="50%"></img>
+<img src="/caesar-cipher-left-shift.png"></img>
 <br>
-Credit: <a href="https://www.pngwing.com/en/free-png-zimaf">pngwing.com</a>
+Credit: <a href="https://en.wikipedia.org/wiki/Caesar_cipher">Wikipedia</a>
 <hr>
 
 ## Caesar Cipher Story
