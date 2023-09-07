@@ -2,7 +2,10 @@
 
 <div style="display: flex; flex-direction: row;">
 <img src="/cipher-disk.jpeg" width="30%" height="30%"></img>
-<img src="/caesar-cipher-left-shift.png" width="30%" height="30%"></img>
+  <div style="display: flex; flex-direction: column;">
+    <img src="/caesar-cipher-right-shift.png" width="30%" height="30%"></img>
+    <img src="/caesar-cipher-left-shift.png" width="30%" height="30%"></img>
+  </div>
 </div>
 <br>
 <p>
